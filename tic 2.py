@@ -1,32 +1,15 @@
-"""
-[+] Singleplayer
--Fix the inconsistency
--Scoring
--New game set option
--Scoring se winner
--Save game option
--Load Game
--New Main Menu
--Settings
--Add more sound tracks
--Admin controls
--Convert to .exe
+!pip install turtle
+!pip install winsound
+!pip install pickle
+!pip install os
 
-[+] Multiplayer
--Multiplayer and singleplayer option
--Server code
--Clinet code
--Advanced internet options
-
-[+] Mobile
-"""
 
 
 import turtle
 import winsound
 import pickle
 import os
-import threading
+#import threading
 
 
 win = turtle.Screen()
